@@ -1,2 +1,2 @@
 # Cross-platform Applications
-To do list
+A simple tudolist program is using javascript.
